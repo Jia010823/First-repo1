@@ -1,1 +1,10 @@
+#Test cases
+print(
+    morse_translator("HELLO WORLD")
+)  # Expected output: ".... . .-.. .-.. --- / .-- --- .-. .-.. -.."
+print(morse_translator("Python"))  # Expected output: ".--. -.-- - .... --- -."
+print(
+    morse_transalator("Morse Code")
+)  #Expected output: "-- --.- .-. ... . / -.-. --- -.. ."
+
 
